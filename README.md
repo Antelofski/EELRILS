@@ -1,4 +1,4 @@
-# EELRILS
+# EELRILS (Second Runner up Winner of HackUST2020, Bronze medal in the 7th China International Internet+ College Students' Innovation and Entrepreneurship Competition)
 
 E'ELRILS (Elderly's Emotion and Language Recognition Intelligent Linkage System)
 
